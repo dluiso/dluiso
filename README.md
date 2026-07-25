@@ -50,7 +50,9 @@ The following solutions are maintained in private repositories. Their source cod
 
 ## How I work
 
-I use AI-assisted engineering tools to accelerate implementation while retaining responsibility for requirements, architecture, integration decisions, code review, testing, security, deployment, and operational outcomes. I approach development as solution delivery: the technology must solve the actual business problem and remain understandable and supportable after launch.
+My work begins with understanding the client: how their business operates, what their product or service needs to accomplish, where current processes or technology create friction, and which weaknesses or risks may limit reliability, security, efficiency, or growth. I listen first, map the real requirements and operational context, and avoid proposing technology before the problem is clearly understood.
+
+From that foundation, I design and implement practical solutions informed by my experience in IT infrastructure, ECM, automation, cloud services, and systems integration. I use AI-assisted engineering tools to accelerate research, prototyping, implementation, and documentation, while retaining professional responsibility for requirements, architecture, integration decisions, code review, testing, security, deployment, and operational outcomes. The goal is not technology for its own sake, but a solution that fits the client's business, solves the actual problem, and remains secure, understandable, maintainable, and supportable after launch.
 
 ## Connect
 
